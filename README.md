@@ -4,7 +4,8 @@
 
     Developer's note:
     
-    This project is currently deployed, but the code is closed-source. If I ever choose to make this a public project, I will publish everything here in this repository.
+    This project is currently deployed, but the code is closed-source. If I ever choose to make 
+    this a public project, I will publish everything here in this repository.
 
 > ⚠️ **NOTE**  
 > This web app is a work in progress! The Flowscious platform consists of a single person working on many projects.
